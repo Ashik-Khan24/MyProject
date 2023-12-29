@@ -6,7 +6,7 @@
   </title>
   <body>
     <h> Myself </h>
-    <p> I am a Cse STUDENT  </p> <br>
-    <p> Depertment of cse</p>
+    <p> I am a Cse STUDENT  </p>
+    <p> Batch 201 </p>
   </body>
 </html>
